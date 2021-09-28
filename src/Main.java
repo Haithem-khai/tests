@@ -17,6 +17,10 @@ public class Main {
     //System.out.println(position("grampromsderze"));
    static String PROGRAMMER = "programmer";
 
+    static {
+       System.out.println("Haithem is here");
+   }
+
 
 
     public static void main(String[] arg) throws Exception {
